@@ -13,7 +13,7 @@ const projects = [
     title: "Media Search Gallery",
     description:
       "Built a Media Search Gallery project using React and Redux Toolkit that allows users to search and explore photos and videos using third-party API.",
-    image: "public/media-gallery.jpg",
+    image: "/images/media-gallery.jpg",
     live: "https://media-search-gallery-project.vercel.app/",
     github: "https://github.com/Mohit-484/Media-Search-Project",
   },
@@ -21,7 +21,7 @@ const projects = [
     title: "Beginner-level Projects",
     description:
       "Lots of other frontend beginner-level projects available in my github repositories.",
-    image: "public/gitlogo.png",
+    image: "/images/gitlogo.png",
     live: "https://github.com/Mohit-484?tab=repositories",
     github: "https://github.com/Mohit-484?tab=repositories",
   },
