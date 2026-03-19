@@ -20,7 +20,7 @@ export default function AboutPage() {
         flex flex-col items-center  text-center p-10 space-y-4"
       >
         <img
-          src="/src/assets/mohit.png"
+          src="/public/mohit.png"
           alt="Mohit"
           className="w-36 h-36 rounded-full object-cover border-4 border-[#6594B1] hover:scale-140 hover:mb-10 transition-all"
         />
