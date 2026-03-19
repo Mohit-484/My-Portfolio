@@ -5,7 +5,7 @@ const projects = [
     title: "Employee Task Management",
     description:
       "Built a React-based task management application that allows an admin to assign, track, and manage tasks for employees.",
-    image: "src/assets/ems.png", 
+    image: "public/ems.png", 
     live: "https://employee-task-management-ten.vercel.app/",
     github: "https://github.com/Mohit-484/Employee-Management-Dashboard",
   },
@@ -13,7 +13,7 @@ const projects = [
     title: "Media Search Gallery",
     description:
       "Built a Media Search Gallery project using React and Redux Toolkit that allows users to search and explore photos and videos using third-party API.",
-    image: "src/assets/media-gallery.jpg",
+    image: "public/media-gallery.jpg",
     live: "https://media-search-gallery-project.vercel.app/",
     github: "https://github.com/Mohit-484/Media-Search-Project",
   },
@@ -21,7 +21,7 @@ const projects = [
     title: "Beginner-level Projects",
     description:
       "Lots of other frontend beginner-level projects available in my github repositories.",
-    image: "src/assets/gitlogo.png",
+    image: "public/gitlogo.png",
     live: "https://github.com/Mohit-484?tab=repositories",
     github: "https://github.com/Mohit-484?tab=repositories",
   },
