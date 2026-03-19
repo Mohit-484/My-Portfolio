@@ -5,7 +5,7 @@ const projects = [
     title: "Employee Task Management",
     description:
       "Built a React-based task management application that allows an admin to assign, track, and manage tasks for employees.",
-    image: "public/ems.png", 
+    image: "/images/ems.png", 
     live: "https://employee-task-management-ten.vercel.app/",
     github: "https://github.com/Mohit-484/Employee-Management-Dashboard",
   },
