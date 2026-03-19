@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { FaMapMarkerAlt, FaHtml5, FaReact, FaGitAlt } from "react-icons/fa";
 import { CiLocationOn } from "react-icons/ci";
 import { SiTailwindcss, SiJavascript, SiRedux, SiFigma } from "react-icons/si";
-import mohit from "../assets/mohit.png"
+
 
 
 export default function AboutPage() {
@@ -21,7 +21,7 @@ export default function AboutPage() {
         flex flex-col items-center  text-center p-10 space-y-4"
       >
         <img
-          mohit
+          src="/images/mohit.png"
           alt="Mohit"
           className="w-36 h-36 rounded-full object-cover border-4 border-[#6594B1] hover:scale-140 hover:mb-10 transition-all"
         />
