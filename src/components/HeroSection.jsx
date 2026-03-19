@@ -95,7 +95,7 @@ export default function HeroSection() {
 
 
   <motion.img
-    src="public/code.png"
+    src="/images/code.png"
     alt="code icon"
     className="w-[220px] sm:w-[300px] lg:w-[380px] relative z-10 cursor-pointer"
 
