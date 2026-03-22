@@ -92,7 +92,7 @@ export default function Navbar() {
 
         {/* Desktop Resume Button */}
         <a
-          href="/Mohit Resume 2.pdf"
+          href="/Mohit_Selokar_Resume.pdf"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -144,7 +144,7 @@ export default function Navbar() {
             ))}
 
             <a
-              href="/resume.pdf"
+              href="/Mohit_Selokar_Resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               onClick={() => setIsOpen(false)}
